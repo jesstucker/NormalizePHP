@@ -1,0 +1,35 @@
+form{
+  color: rgb(143, 142, 133);
+	padding: 12px;
+	font-size: 123%;
+	width: 169px;
+	border: 2px rgb(214, 190, 190) solid;
+	background-color: rgb(243, 239, 234);
+	border-style: double;
+	border-radius: 22px;
+	border-left-color: rgb(177, 174, 170);
+	border-right-color: rgb(226, 222, 218);
+	margin: auto;
+	box-shadow: 10px 19px 71px #222;
+}
+input{
+	color: rgb(175, 134, 134);
+	background-color: rgb(236, 233, 229);
+	width: 90%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	float: center;
+	margin: auto;
+	margin-top: 8%;
+	margin-bottom: 4%;
+	display: block;
+	border-radius: 6px;
+}
+
+textarea{
+	border: 2px rgb(214, 190, 190) solid;
+	border-radius: 12px;
+	border-left-color:rgb(226, 222, 218);
+	border-right-color: rgb(177, 174, 170);
+	background-color: rgb(243, 239, 234);
+}
